@@ -1,9 +1,3 @@
-name: Team Member Request
-description: Form to request a new team member within the organization
-title: "[Team Member Request]: [New Member Name]"
-assignees:
-  - Admin_14_1  
-
 body:
   - type: markdown
     attributes:
