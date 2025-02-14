@@ -1,3 +1,11 @@
+name: Team Member Request
+description: Form to request a new team member within the organization
+title: "Request to be added to the task github"
+assignees:
+  - 14_1_Admins  # Replace with the actual GitHub username(s) or team name
+
+b
+
 body:
   - type: markdown
     attributes:
