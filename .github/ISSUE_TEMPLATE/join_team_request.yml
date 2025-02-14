@@ -29,18 +29,6 @@ body:
         - "Admin"
         - "Custom (specify below)"
 
-  - type: markdown
-    attributes:
-      value: "**Requester Information** (Auto-filled)"
-
-  - type: input
-    id: requester
-    attributes:
-      label: Requester GitHub Username
-      description: This field is auto-filled with the GitHub username of the requester.
-      value: "@{{ github.actor }}"
-      readonly: true
-
   - type: textarea
     id: additional_notes
     attributes:
